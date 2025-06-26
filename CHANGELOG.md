@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-24)
+## Unreleased (2025-06-26)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`721033e`](https://github.com/stdlib-js/stdlib/commit/721033eede9b3a4667728f40695d933f49f541c1) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`fc03354`](https://github.com/stdlib-js/stdlib/commit/fc0335492cf50370e574ce2bfea6ac310d0f2e5d) - **fix:** ensure accessor array support _(by Athan Reines)_
 -   [`8fda22b`](https://github.com/stdlib-js/stdlib/commit/8fda22bdb1f9df8cf7564b0e36c660037234f738) - **docs:** fix descriptions _(by Athan Reines)_
 -   [`76d6a22`](https://github.com/stdlib-js/stdlib/commit/76d6a22937ba4198bba07ec6acb095277c781464) - **feat:** add `blas/ext/base/ndarray/dcusum` _(by Athan Reines)_
@@ -46,9 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
